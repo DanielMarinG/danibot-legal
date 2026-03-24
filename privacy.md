@@ -14,4 +14,4 @@ DaniBot allows users to connect Spotify/YouTube Music accounts for Discord featu
 You can disconnect anytime using bot commands (`/spotify disconnect`, `/ytmusic disconnect`).
 
 ## Contact
-For privacy requests: your-email@example.com
+For privacy requests: dmcreationsof@gmail.com
